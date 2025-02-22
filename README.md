@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **a Church attendance System**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m a React Developer ✅**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
-- 🤝 I’m looking for help with **any frontend related project**
+- 🤝 I’m looking to help with **any frontend related project**
 
 - 💬 Ask me about **Javascript and react**
 
