@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeslieABbrown&label=Profile%20views&color=0e75b6&style=flat" alt="LeslieABbrown" /> </p>
 
-- 🔭 I’m currently working on **a Church Attendance System** and **AI-driven agriculture and driver-hiring platforms**  
+- 🔭 I’m currently working on **AI-driven agriculture**  
 - 🌱 I’m skilled in **React, React Native, JavaScript, and UI/UX design principles**  
 - 👯 I’m open to collaborate on **exciting frontend and mobile app projects**  
 - 🤝 I’m eager to contribute to **projects involving responsive design and AI integration**  
