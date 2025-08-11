@@ -1,18 +1,13 @@
-<h1 align="center">Hi 👋, I'm Leslie Brown</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h1 align="center">Hi 👋, I'm Leslie Brown (Agbavitor Abraham) or Orion Glitch</h1>
+<h3 align="center">Innovative Frontend Developer & React Native enthusiast from Ghana</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leslieabrown&label=Profile%20views&color=0e75b6&style=flat" alt="leslieabrown" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeslieABbrown&label=Profile%20views&color=0e75b6&style=flat" alt="LeslieABbrown" /> </p>
 
-- 🔭 I’m currently working on **a Church attendance System**
-
-- 🌱 I’m a React Developer ✅**
-
-- 👯 I’m looking to collaborate on **any interesting project**
-
-- 🤝 I’m looking to help with **any frontend related project**
-
-- 💬 Ask me about **Javascript and react**
-
+- 🔭 I’m currently working on **a Church Attendance System** and **AI-driven agriculture and driver-hiring platforms**  
+- 🌱 I’m skilled in **React, React Native, JavaScript, and UI/UX design principles**  
+- 👯 I’m open to collaborate on **exciting frontend and mobile app projects**  
+- 🤝 I’m eager to contribute to **projects involving responsive design and AI integration**  
+- 💬 Ask me about **JavaScript, React, React Native, and frontend development best practices**  
 - 📫 How to reach me **leslieabbrown10@gmail.com or abrahamagbavitor5@gmail.com**
 
 - ⚡ Fun fact **Css throws no error but can m*ss up your whole career**
